@@ -42,7 +42,7 @@ Follow these steps to run the project locally:
 
 ```bash
 git clone https://github.com/DevOlabode/chat-app-with-websockets.git
-cd chat-app-with-websockets/web\ socket
+cd chat-app-with-websockets
 ```
 
 ### 2. Install Dependencies
